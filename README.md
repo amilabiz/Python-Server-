@@ -27,6 +27,6 @@ Stept to configure
 9-a2enconf cgi-enabled
 10-systemctl restart apache2 
 
-11- nano /var/www/cgi-enabled/index.py 
+11- nano /var/www/html/cgi-enabled/index.py 
 
-12- chmod 705 /var/www/cgi-enabled/index.p
+12- chmod 705 /var/www/html/cgi-enabled/index.p
