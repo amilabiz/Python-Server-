@@ -29,4 +29,5 @@ Stept to configure
 
 11- nano /var/www/html/cgi-enabled/index.py 
 
-12- chmod 705 /var/www/html/cgi-enabled/index.p
+12- chmod 705 /var/www/html/cgi-enabled/index.py
+acess : https://{server IP}/cgi-enabled/index.py
